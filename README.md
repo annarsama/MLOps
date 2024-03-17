@@ -25,3 +25,7 @@ To launch the app, simply run the following command line:
 ```bash
 $ docker compose up --build
 ```
+
+## Authors ✏️
+
+Annabelle NARSAMA
