@@ -11,8 +11,8 @@ This app provides an UI to do predictions on a pretrained ML model using Penguin
 
 The app folder is made up of 2 subfolders:
 
-- client: a folder that contains images (`images`), a Python file (`app.py`), a `Dockerfile`, and a requirements file (`.txt`) for installing dependencies.
-- server: a Python file (`app.py`) for the app, a `Dockerfile`, a pre-trained model (`model.pkl`), a requirements file (`.txt`) for installing dependencies, and a Python file (`train.py`) for the training of the ML model.
+- *client:* a folder that contains images (`images`), a Python file (`app.py`), a `Dockerfile`, and a requirements file (`.txt`) for installing dependencies.
+- *server:* a Python file (`app.py`) for the app, a `Dockerfile`, a pre-trained model (`model.pkl`), a requirements file (`.txt`) for installing dependencies, and a Python file (`train.py`) for the training of the ML model.
 
 The app folder also contains a `docker-compose.yml` file.
 
