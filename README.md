@@ -1,4 +1,4 @@
-# ✨ MLOps ✨
+# ✨ MLOps Project ✨
 
 This is the final project for a MLOps 💻 lesson from Master 2 SISE (_Université Lumière Lyon 2_) headed by [Fanilo ANDRIANASOLO](https://github.com/andfanilo). The aim of this project was to build a full-stack Dockerized Machine Learning app 📈.
 
