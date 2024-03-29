@@ -18,7 +18,7 @@ The app folder also contains a `docker-compose.yml` file.
 
 ## Usage 📍
 
-This app enable you to predict penguin species (i.e., Adelie, Gentoo, Chinstrap) based on certain characteristics (more information on the app's home page).
+This app enables you to predict penguin species (i.e., Adelie, Gentoo, Chinstrap) based on certain characteristics (more information on the app's home page).
 
 To launch the app, you need to download the app folder and to launch Docker Desktop first. Then, simply run the following command lines:
 
